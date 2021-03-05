@@ -31,8 +31,3 @@ public interface AuthenticationManager {
     throws AuthenticationException;
 }
 ```
-
-
-
-이를 통해 `Spring Security`를 사용하는 개발자들이 겪어본 혼란들을 해결할 수 있을 것이라 기대한다.ㅇ         
-이를 통해 `Spring Security`를 사용하는 개발자들이 겪어본 혼란들을 해결할 수 있을 것이라 기대한다.  
