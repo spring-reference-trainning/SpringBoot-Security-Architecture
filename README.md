@@ -1,4 +1,5 @@
 # 천천히 작성할 예정 🛠
+[](https://spring.io/guides/topicals/spring-security-architecture/)
 # SpringBoot-Security
 
 해당 가이드는 `Spring Security`의 `설계` 및 `기본 구성요소`에 대한 **통찰력을 제공하는 입문서**이다.    
