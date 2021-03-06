@@ -23,7 +23,7 @@
 `인증`과 `인가`에 대한 전략과 확장 포인트를 가지고 있다.    
   
 ## 인증(Authentication)   
-`인증`을 위한 주요 전략으로 `AuthenticationManager` 인터페이스를 사용하며이며 메서드는 한 개이다.   
+`인증`을 위한 주요 전략으로 `AuthenticationManager` 인터페이스를 사용하며, 메서드는 한 개이다.   
 
 ```java
 public interface AuthenticationManager {
